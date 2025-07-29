@@ -28,14 +28,7 @@ This repository contains a Jupyter Notebook that demonstrates how to build a **R
 
 ## Getting Started
 
-### 1. **Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/rag-pipeline-notebook.git
-cd rag-pipeline-notebook
-```
-
-### 2. **Install Dependencies**
+### 1. **Install Dependencies**
 
 Open the notebook in Jupyter or VS Code. The first code cell will install all required Python packages:
 
@@ -54,17 +47,17 @@ Alternatively, you can install them manually:
 pip install pinecone sentence-transformers pymupdf langchain langchain-community langdetect torch groq
 ```
 
-### 3. **Add Your API Keys**
+### 2. **Add Your API Keys**
 
 - Replace `"Your Pinecone API Key"` and `"Your Groq API Key"` in the notebook with your actual API keys.
 - **Never commit real API keys to public repositories.**
 
-### 4. **Add Your Documents**
+### 3. **Add Your Documents**
 
 - Place your `.pdf` and `.txt` files in the working directory.
 - Update the `docs` list in the notebook to point to your files.
 
-### 5. **Run the Notebook**
+### 4. **Run the Notebook**
 
 - Execute each cell in order.
 - Follow the example usage to ask questions about your documents.
