@@ -110,3 +110,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 Contributions, suggestions, and issues are welcome! Please open an issue or pull request.
 
 ---
+
+## Support
+
+If you find this project helpful, consider giving it a ⭐ and crediting the repo if you use it in your own work!
