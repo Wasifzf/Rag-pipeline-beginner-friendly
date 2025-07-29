@@ -1,6 +1,3 @@
-# Rag-pipeline-beginner-friendly
-A beginner-friendly RAG pipeline using LangChain, Pinecone, and Groq. Learn how to combine document search with LLMs to build powerful, context-aware question-answering systems.
-
 # Retrieval Augmented Generation (RAG) Pipeline for Document Q&A
 
 This repository contains a Jupyter Notebook that demonstrates how to build a **Retrieval Augmented Generation (RAG) pipeline** for question answering over your own documents using Large Language Models (LLMs). The pipeline combines document retrieval (via vector search) with generative AI to provide accurate, context-aware answers.
